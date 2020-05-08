@@ -1,8 +1,13 @@
 import React from 'react';
-import Home from './screen/Home';
+
+// Netflix home screen
+// import Home from './screen/Home';
+
+// Square animation
+import SquareAnimate from './screen/SquareAnimate';
 
 const App = () => {
-  return <Home />;
+  return <SquareAnimate />;
 };
 
 export default App;
